@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=0.0.1
+Type=Application
+Name=Taskmanager 
+Exec=x-live-taskmanager
+Icon=x-live-taskmanager
+Categories=Utility;System;
+Keywords=task;process;;container;
+StartupNotify=true
+X-GNOME-UsesNotifications=true
+GenericName=Taskmanager 
